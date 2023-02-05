@@ -11,7 +11,6 @@ const Main=()=>{
     return(
      
         <NavigationContainer>
-      
         <stack.Navigator>
           
            <stack.Screen
